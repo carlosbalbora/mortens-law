@@ -1,0 +1,3053 @@
+{
+  "time": "Fri Dec 10 2021 12:51:14 GMT+0000 (Coordinated Universal Time)",
+  "repos": [
+    {
+      "repo": "3d",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "3d2",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "aarstiderne",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "apps",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "assemble.sh",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "audio-stream-box",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "aula-client",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "babyalarm",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "backplane",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": []
+          },
+          "postEnforcement": {
+            "invalidReasons": []
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": []
+          },
+          "postEnforcement": {
+            "invalidReasons": []
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": []
+          },
+          "postEnforcement": {
+            "invalidReasons": []
+          }
+        }
+      }
+    },
+    {
+      "repo": "blueprinter",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "catpic.delivery",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "clubhouse",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "curriculum-vitae",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "devspace",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "docker-dash",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "dockerverse",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch next"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch next"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "dotfiles",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "friendseeker-api",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "gallery",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "get-gpg-keys-from-github-following",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "git-law",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "github-backup",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "homebot",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "iot",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "kubespray",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "lab.sh",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "localStorage-Caching-Demo",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "macos-containerish",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "morten-olsen.github.io",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "mortens-secret-knowladge",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "music-stream-server",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "nevergone",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "Review not required"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "Review not required"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "nssh",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "NvChad",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "openpgpjs",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "OptimisticObjects",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "Page.NET",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "parcel",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "Review not required"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "Review not required"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "peanut",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "personal",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "personal-site",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "pipes",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "poc-intercom",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "podcast-sync",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "poff.js",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "public-keys",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "react-formed",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "Review not required"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "Review not required"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "react-formed-3",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "react-native-debug-console",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "redux-app-state",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "research-react-x",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "research-redux-opinionated",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "research-redux-webworker",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "rolighed",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "safety-latch",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch next"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch next"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "sampension-chrome",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "share.nvim",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "telescope.nvim",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "todoma",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "tranquility-app",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "ts",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "urljs",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "wedox",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "wolfsquad",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "Review not required"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "Review not required"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "work-in-docker",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "workplace",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "writings",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "_dev_env.sh",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
