@@ -484,9 +484,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"git-law@npm:^0.1.11":
-  version: 0.1.11
-  resolution: "git-law@npm:0.1.11"
+"git-law@npm:^0.1.12":
+  version: 0.1.12
+  resolution: "git-law@npm:0.1.12"
   dependencies:
     commander: ^8.3.0
     dotenv: ^10.0.0
@@ -495,7 +495,7 @@ __metadata:
     yaml: ^1.10.2
   bin:
     gitlaw: bin/gitlaw.js
-  checksum: a69e88b0333fe31d1f897b2e360ea6e43eb016e38b0f57e1566a614eae0adee03ea0e037634a9156ba4261ef0920a061d78d16d046a3d4f8d3138ffa7f0579a3
+  checksum: 374b35031b3e651554fb268678526068c70227888736953866eda751640422f2e2c6b221974adaff4036a7e2bc75a5e1095b9960126b0e7f2880e6420e729c9b
   languageName: node
   linkType: hard
 
@@ -621,7 +621,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "mortens-law@workspace:."
   dependencies:
-    git-law: ^0.1.11
+    git-law: ^0.1.12
     ts-node: ^10.4.0
     typescript: ^4.5.3
   languageName: unknown
