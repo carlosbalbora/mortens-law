@@ -19,7 +19,7 @@ jobs:
         registry-url: https://registry.npmjs.org/ 
     - run: corepack enable
     - run: yarn install
-    - run: node node_modules/git-law/bin/git-law.js run
+    - run: ls -al
       env:
         GITHUB_TOKEN: "${{ secrets.GH_TOKEN }}"
     - uses: EndBug/add-and-commit@v7
