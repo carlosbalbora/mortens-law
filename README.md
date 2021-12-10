@@ -709,7 +709,7 @@
 | ---- | ------ | ---- | ------- |
 | require-policy | ❌ |{recommended | .github/policy.yml does not exist |
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
-| review-required | ❌ |{required | No branch protection for default branch next |
+| review-required | ❌ |{required | Only 0 review(s) required, 1 expected |
 
 </details>
 

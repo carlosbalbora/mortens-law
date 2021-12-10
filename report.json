@@ -1,5 +1,5 @@
 {
-  "time": "Fri Dec 10 2021 13:05:14 GMT+0000 (Coordinated Universal Time)",
+  "time": "Fri Dec 10 2021 13:27:41 GMT+0000 (Coordinated Universal Time)",
   "repos": [
     {
       "repo": "3d",
@@ -2453,12 +2453,12 @@
           "type": "required",
           "preEnforcement": {
             "invalidReasons": [
-              "No branch protection for default branch next"
+              "Only 0 review(s) required, 1 expected"
             ]
           },
           "postEnforcement": {
             "invalidReasons": [
-              "No branch protection for default branch next"
+              "Only 0 review(s) required, 1 expected"
             ]
           }
         }
