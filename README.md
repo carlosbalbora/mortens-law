@@ -9,7 +9,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -22,7 +22,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -35,7 +35,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -48,7 +48,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -61,7 +61,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -74,7 +74,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -87,7 +87,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -100,7 +100,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -113,7 +113,7 @@
 | policy-owner | ✔️ |{recommended |  |
 | review-required | ✔️ |{required |  |
 
-</defaults>
+</details>
 
 
 
@@ -126,7 +126,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -139,7 +139,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -152,7 +152,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -165,7 +165,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -178,7 +178,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -191,7 +191,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -204,7 +204,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch next |
 
-</defaults>
+</details>
 
 
 
@@ -217,7 +217,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -230,7 +230,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -243,7 +243,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -256,7 +256,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -269,7 +269,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -282,7 +282,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -295,7 +295,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -308,7 +308,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -321,7 +321,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -334,7 +334,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -347,7 +347,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -360,7 +360,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -373,7 +373,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -386,7 +386,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -399,7 +399,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -412,7 +412,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | Review not required |
 
-</defaults>
+</details>
 
 
 
@@ -425,7 +425,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -438,7 +438,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -451,7 +451,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -464,7 +464,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -477,7 +477,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -490,7 +490,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | Review not required |
 
-</defaults>
+</details>
 
 
 
@@ -503,7 +503,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -516,7 +516,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -529,7 +529,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -542,7 +542,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -555,7 +555,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -568,7 +568,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -581,7 +581,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -594,7 +594,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -607,7 +607,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | Review not required |
 
-</defaults>
+</details>
 
 
 
@@ -620,7 +620,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -633,7 +633,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -646,7 +646,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -659,7 +659,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -672,7 +672,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -685,7 +685,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -698,7 +698,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -711,7 +711,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch next |
 
-</defaults>
+</details>
 
 
 
@@ -724,7 +724,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -737,7 +737,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -750,7 +750,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -763,7 +763,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -776,7 +776,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -789,7 +789,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -802,7 +802,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -815,7 +815,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -828,7 +828,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | Review not required |
 
-</defaults>
+</details>
 
 
 
@@ -841,7 +841,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -854,7 +854,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch main |
 
-</defaults>
+</details>
 
 
 
@@ -867,7 +867,7 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
 
 
@@ -880,5 +880,5 @@
 | policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
 | review-required | ❌ |{required | No branch protection for default branch master |
 
-</defaults>
+</details>
 
