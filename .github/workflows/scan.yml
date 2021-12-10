@@ -1,0 +1,26 @@
+name: Scan repos
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '30 10 * * *'
+jobs:
+  scan:
+    name: Scan
+    runs-on: ubuntu-latest
+    steps:
+    - name: Use Node.js 16
+      uses: actions/setup-node@v2
+      with:
+        node-version: 16
+        registry-url: https://registry.npmjs.org/ 
+    - run: corepack enable
+    - run: yarn install
+    - run: yarn git-law
+      env:
+        GITHUB_TOKEN: "${{ secrets.GH_TOKEN }}"
+    - uses: EndBug/add-and-commit@v7
+      with:
+        author_name: Git Actions
+        author_email: gitactions@example.com
+        message: Updated reports
