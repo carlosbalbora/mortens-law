@@ -6,6 +6,8 @@ import {
   Config,
   PolicyType,
   consoleReporter,
+  file,
+  markdown,
 } from 'git-law';
 
 const token = process.env.GITHUB_TOKEN;
@@ -42,6 +44,8 @@ const config: Config = {
   },
   reporters: [
     consoleReporter,
+    file({ outputPath: 'report.json' }),
+    markdown({ outputPath: 'README.md' }),
   ],
 };
 
