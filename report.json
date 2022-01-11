@@ -1,5 +1,5 @@
 {
-  "time": "Mon Jan 10 2022 10:38:28 GMT+0000 (Coordinated Universal Time)",
+  "time": "Tue Jan 11 2022 10:38:41 GMT+0000 (Coordinated Universal Time)",
   "repos": [
     {
       "repo": "3d",
@@ -711,6 +711,51 @@
     },
     {
       "repo": "dotfiles",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "foo",
       "owner": "morten-olsen",
       "rules": {
         "require-policy": {
