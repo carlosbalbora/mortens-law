@@ -1,5 +1,5 @@
 {
-  "time": "Fri Mar 11 2022 10:36:38 GMT+0000 (Coordinated Universal Time)",
+  "time": "Sat Mar 12 2022 10:35:49 GMT+0000 (Coordinated Universal Time)",
   "repos": [
     {
       "repo": "3d",
@@ -1514,6 +1514,51 @@
           "postEnforcement": {
             "invalidReasons": [
               "No branch protection for default branch master"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "repo": "morten-olsen",
+      "owner": "morten-olsen",
+      "rules": {
+        "require-policy": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              ".github/policy.yml does not exist"
+            ]
+          }
+        },
+        "policy-owner": {
+          "type": "recommended",
+          "preEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "User @morten-olsen is not owner of .github/policy.yml"
+            ]
+          }
+        },
+        "review-required": {
+          "type": "required",
+          "preEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
+            ]
+          },
+          "postEnforcement": {
+            "invalidReasons": [
+              "No branch protection for default branch main"
             ]
           }
         }
