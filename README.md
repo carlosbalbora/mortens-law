@@ -521,6 +521,19 @@
 
 
 <details>
+  <summary>❌ morten-olsen/node-latex</summary>
+
+| Rule | Status | Type | Reasons |
+| ---- | ------ | ---- | ------- |
+| require-policy | ❌ |{recommended | .github/policy.yml does not exist |
+| policy-owner | ❌ |{recommended | User @morten-olsen is not owner of .github/policy.yml |
+| review-required | ❌ |{required | No branch protection for default branch main |
+
+</details>
+
+
+
+<details>
   <summary>❌ morten-olsen/nssh</summary>
 
 | Rule | Status | Type | Reasons |
