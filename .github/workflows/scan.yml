@@ -2,8 +2,8 @@ name: Scan repos
 on:
   push:
   workflow_dispatch:
-  schedule:
-    - cron:  '* * * * *'
+  #schedule:
+  #  - cron:  '* * * * *'
 jobs:
   scan:
     name: Scan
